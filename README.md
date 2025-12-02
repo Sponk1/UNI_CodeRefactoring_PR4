@@ -98,3 +98,17 @@
 
 ### Todos.jsx
 Рефакторинг не требуется.
+
+
+## Тесты
+
+```node
+ PASS  src/functions/TodoListOperations/tests/checkTask.test.js
+ PASS  src/functions/TodoListOperations/tests/addTask.test.js
+ PASS  src/functions/TodoListOperations/tests/sortTask.test.js
+
+Test Suites: 3 passed, 3 total
+Tests:       11 passed, 11 total
+Snapshots:   0 total
+Time:        4.46 s
+```
